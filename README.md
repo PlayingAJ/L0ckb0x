@@ -44,9 +44,10 @@ Right Click MemeInjector Goto Properties and select run as Admin if needed.
 Start game
 Hack ?
 
+Refresh Crates F7
 Chams Toggle F8
 ESP Toggle F9
 No AIMBOT !!!
 
 
-Credz: DrNseven UMO XRAY
+Credz: DrNseven UMO XRAY TJ for SDK
