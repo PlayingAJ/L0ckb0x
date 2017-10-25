@@ -51,3 +51,6 @@ No AIMBOT !!!
 
 
 Credz: DrNseven UMO XRAY TJ for SDK
+
+
+This product is meant for educational purposes only.
